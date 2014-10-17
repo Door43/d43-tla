@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tla:home|Door43 (tla)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tla|d43-tla repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tla/archive/master.zip|d43-tla.zip]]
+
+**Recent Changes**
+{{changes>ns = tla}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tla|Ethnologue data]]
+
